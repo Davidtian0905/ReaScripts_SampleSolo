@@ -41,3 +41,7 @@
 ## 使用方式视频预览：
 https://github.com/Davidtian0905/ReaScripts_SampleSolo/assets/122532842/722c3378-a0c9-459a-96de-8654b6fae0df
 
+# 后记：
+- 考虑到使用Solo轨道后，会使其他的轨道静音，而如果只使用mute功能，就可以自由在同一层级的轨道上进行样本素材的切换，这样方便在制作多样本时，来回试听效果
+- 我一般是把solo的快捷键S，运用在MuteOthersUnmuteSelected.lua上，如果要单独solo轨道，使用鼠标点击会更好一些
+- 我没有给UnmuteAllSameLevel.lua添加快捷键，而是在工具栏上，添加了按钮，鼠标点击就可以取消同一层级的静音轨道
