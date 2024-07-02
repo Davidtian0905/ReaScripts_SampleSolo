@@ -1,3 +1,8 @@
+-- @version 1.0.0
+-- @author David.tian
+-- @B站 https://space.bilibili.com/538201523/
+-- @Github https://github.com/Davidtian0905/ReaScripts_SampleSolo
+
 function UnmuteAllTracksAtSameLevel()
   local selectedTrack = reaper.GetSelectedTrack(0, 0)
   if not selectedTrack then return end
